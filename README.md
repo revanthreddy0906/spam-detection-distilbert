@@ -73,3 +73,8 @@ python train.py
 ## 📈 Results
 - Accuracy : ~99%
 - F1-Score:~0.97
+
+## 🌐 Live Demo
+
+Try the model in your browser:  
+https://huggingface.co/spaces/WhiteDevilOP/spam-detection-distilbert-demo
